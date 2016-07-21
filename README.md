@@ -1,4 +1,4 @@
-# starter_kit_rails
+# Starter Kit Angular
 
 
 ## Setup
