@@ -39,3 +39,4 @@ jspm_packages
 .env
 dist
 .sass-cache
+app/bower_components
